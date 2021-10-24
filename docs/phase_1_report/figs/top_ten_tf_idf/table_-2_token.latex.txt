@@ -1,0 +1,16 @@
+\begin{tabular}{lr}
+\hline
+ Value           &     TF-IDF \\
+\hline
+ forthepeopleact & 0.00638864 \\
+ confirmclarke   & 0.00526731 \\
+ meidastouch     & 0.00397955 \\
+ mafs            & 0.00387887 \\
+ confirmgupta    & 0.00358551 \\
+ fromthearchives & 0.00296073 \\
+ counteveryvote  & 0.00270545 \\
+ gqp             & 0.00250987 \\
+ cristian        & 0.00244468 \\
+ verzuz          & 0.00241684 \\
+\hline
+\end{tabular}

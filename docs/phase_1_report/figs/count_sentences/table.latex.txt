@@ -1,0 +1,11 @@
+\begin{tabular}{rr}
+\hline
+   Bias &   Sentence Count \\
+\hline
+     -2 &           282210 \\
+     -1 &           567452 \\
+      0 &           312063 \\
+      1 &           253253 \\
+      2 &           262614 \\
+\hline
+\end{tabular}

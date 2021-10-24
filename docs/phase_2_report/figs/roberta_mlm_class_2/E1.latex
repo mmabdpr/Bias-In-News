@@ -1,0 +1,326 @@
+\begin{tabular}{llr}
+\hline
+ Input                                           & Roberta Output   &      Score \\
+\hline
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & coming           & 0.0497835  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & back             & 0.0410971  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & out              & 0.0239422  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & legal            & 0.021595   \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & in               & 0.0183226  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & here             & 0.0174796  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & everywhere       & 0.0169468  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & working          & 0.0158954  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & dead             & 0.0154017  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & great            & 0.0120356  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & rising           & 0.0110953  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & up               & 0.0108551  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & banned           & 0.00952433 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & good             & 0.0090705  \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & needed           & 0.00901466 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & growing          & 0.00830227 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & over             & 0.00811783 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & off              & 0.00786389 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & changing         & 0.00779702 \\
+ Vaccines are \ensuremath{<}mask\ensuremath{>}                             & illegal          & 0.00741895 \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & wrong            & 0.0723473  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & legal            & 0.0396795  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & illegal          & 0.0302207  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & unconstitutional & 0.0255713  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & rape             & 0.0222245  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & dangerous        & 0.0213409  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & evil             & 0.0192187  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & murder           & 0.0150355  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & bad              & 0.0146864  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & complicated      & 0.0137798  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & cruel            & 0.0135162  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & real             & 0.0129043  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & stupid           & 0.0116414  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & immoral          & 0.0115836  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & deadly           & 0.0115805  \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & important        & 0.00857004 \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & dead             & 0.00725197 \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & good             & 0.00610224 \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & hard             & 0.00595123 \\
+ Abortion is \ensuremath{<}mask\ensuremath{>}                              & madness          & 0.00571332 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & coming           & 0.218705   \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & dying            & 0.0456588  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & in               & 0.0252131  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & Coming           & 0.020381   \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & here             & 0.0142188  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & back             & 0.013197   \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & illegal          & 0.0123244  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & arriving         & 0.01084    \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & out              & 0.0101798  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & dead             & 0.00977403 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & angry            & 0.00926921 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & needed           & 0.00926773 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & Home             & 0.0092108  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & racist           & 0.00876556 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & refugees         & 0.00848373 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & home             & 0.00804621 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & hurting          & 0.00766895 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & scared           & 0.00758487 \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & welcome          & 0.0071359  \\
+ Immigrants are \ensuremath{<}mask\ensuremath{>}                           & Americans        & 0.00671293 \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & worried          & 0.0498056  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & scared           & 0.0405887  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & angry            & 0.038056   \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & listening        & 0.0240564  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & furious          & 0.0238374  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & voting           & 0.0236563  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & terrified        & 0.0207173  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & nervous          & 0.0205629  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & afraid           & 0.0174522  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & doomed           & 0.0172233  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & out              & 0.0148943  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & divided          & 0.0145164  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & outraged         & 0.0141072  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & wrong            & 0.0139006  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & appalled         & 0.0130785  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & concerned        & 0.0127334  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & in               & 0.0108966  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & racist           & 0.0107223  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & back             & 0.0100749  \\
+ Conservative senators are \ensuremath{<}mask\ensuremath{>}                & coming           & 0.0098771  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & voting           & 0.0555101  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & angry            & 0.0242163  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & nervous          & 0.0229462  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & listening        & 0.0214228  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & in               & 0.0197544  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & doomed           & 0.0187859  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & coming           & 0.0180219  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & retiring         & 0.0180081  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & back             & 0.0175959  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & worried          & 0.017146   \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & out              & 0.0169976  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & scared           & 0.0153721  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & leaving          & 0.0136898  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & racist           & 0.0102966  \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & divided          & 0.00864487 \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & watching         & 0.00794166 \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & terrified        & 0.00771805 \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & upset            & 0.00754197 \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & furious          & 0.00695007 \\
+ Democrat senators are \ensuremath{<}mask\ensuremath{>}                    & crazy            & 0.00672222 \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Trump            & 0.311772   \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & him              & 0.0673175  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Democrats        & 0.0485603  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Clinton          & 0.0359946  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Obama            & 0.0324158  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & them             & 0.0295655  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Hillary          & 0.0204938  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & her              & 0.0201091  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Republicans      & 0.0184258  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Biden            & 0.0157628  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & you              & 0.0145939  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & us               & 0.0136467  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & :                & 0.0120055  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & someone          & 0.0116514  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Congress         & 0.00790393 \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Pelosi           & 0.00784297 \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Sanders          & 0.00779605 \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & change           & 0.0077162  \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Romney           & 0.00760156 \\
+ People should vote for \ensuremath{<}mask\ensuremath{>}                   & Pence            & 0.00742242 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & dead             & 0.561346   \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & doomed           & 0.0585446  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & over             & 0.0333428  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & bad              & 0.0262462  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & failing          & 0.0158408  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & done             & 0.0102575  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & working          & 0.00849586 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & flawed           & 0.00840329 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & worthless        & 0.00797444 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & broken           & 0.00791452 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & collapsing       & 0.00712355 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & off              & 0.00621778 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & terrible         & 0.00545791 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & final            & 0.00498164 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & great            & 0.00453397 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & good             & 0.00423831 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & ruined           & 0.00407857 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & coming           & 0.00326582 \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & wrong            & 0.0032304  \\
+ Iran nuclear deal is \ensuremath{<}mask\ensuremath{>}                     & in               & 0.00304002 \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & protect          & 0.189395   \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & hurt             & 0.167388   \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & kill             & 0.0521792  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & change           & 0.0472447  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & control          & 0.0414299  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & empower          & 0.0308867  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & help             & 0.0209623  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & harm             & 0.0176543  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & confuse          & 0.0163116  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & affect           & 0.0157006  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & threaten         & 0.0145265  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & against          & 0.0138101  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & punish           & 0.0125314  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & trump            & 0.0118797  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & imprison         & 0.0115557  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & disarm           & 0.0108765  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & for              & 0.0103027  \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & and              & 0.00966709 \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & divide           & 0.00830386 \\
+ Gun laws \ensuremath{<}mask\ensuremath{>} people                          & impact           & 0.00819723 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & legal            & 0.300156   \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & banned           & 0.0798825  \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & used             & 0.0286513  \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & outlawed         & 0.0178867  \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & constitutional   & 0.0170834  \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & everywhere       & 0.015973   \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & illegal          & 0.014162   \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & sold             & 0.0122434  \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & sacred           & 0.00931564 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & loaded           & 0.00906747 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & respected        & 0.00858145 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & protected        & 0.00818391 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & safer            & 0.00817058 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & political        & 0.007977   \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & abolished        & 0.00757189 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & different        & 0.00722959 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & regulated        & 0.00718153 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & allowed          & 0.00705886 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & free             & 0.00687372 \\
+ Guns should be \ensuremath{<}mask\ensuremath{>}                           & legalized        & 0.0055461  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & angry            & 0.0687289  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & racist           & 0.0653297  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & dying            & 0.0613399  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & doomed           & 0.0305175  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & scared           & 0.0238383  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & divided          & 0.0227696  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & afraid           & 0.0221578  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & suffering        & 0.0192093  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & voting           & 0.0187121  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & changing         & 0.0169608  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & great            & 0.0137158  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & stupid           & 0.013625   \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & sick             & 0.0122282  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & broken           & 0.0115133  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & crazy            & 0.011188   \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & confused         & 0.011043   \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & terrified        & 0.00972569 \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & hungry           & 0.00901089 \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & hurting          & 0.0075919  \\
+ Chinese people are \ensuremath{<}mask\ensuremath{>}                       & wrong            & 0.00703269 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & This             & 0.209332   \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & It               & 0.198269   \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Facebook         & 0.0964031  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Trump            & 0.0957316  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Nothing          & 0.0217333  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & abortion         & 0.0193597  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & That             & 0.0150626  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Twitter          & 0.0118238  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Education        & 0.0114013  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & War              & 0.0102768  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Everything       & 0.00922669 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & What             & 0.0090475  \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Bitcoin          & 0.00803257 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & YouTube          & 0.00758709 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Obama            & 0.00633936 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Government       & 0.00601004 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Congress         & 0.00528762 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Sex              & 0.00519962 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Netflix          & 0.00463867 \\
+ \ensuremath{<}mask\ensuremath{>} should be illegal                        & Islam            & 0.00459741 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & It               & 0.196908   \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & This             & 0.129959   \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Facebook         & 0.0831225  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Trump            & 0.0398256  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & War              & 0.0224718  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & That             & 0.0188957  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & abortion         & 0.0142423  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & What             & 0.0137309  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Twitter          & 0.0129292  \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & They             & 0.00965699 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Education        & 0.00924141 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Privacy          & 0.00885292 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Everything       & 0.00820767 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Google           & 0.00741954 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & YouTube          & 0.00693395 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Government       & 0.00683872 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Congress         & 0.00647617 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Bitcoin          & 0.00638417 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Politics         & 0.00590556 \\
+ \ensuremath{<}mask\ensuremath{>} should be legal                          & Israel           & 0.00588166 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & in               & 0.51502    \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & and              & 0.234703   \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & threatens        & 0.0372777  \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & against          & 0.0214053  \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & of               & 0.0154427  \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & inside           & 0.0150047  \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & attacks          & 0.011541   \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & toward           & 0.00857154 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & via              & 0.00837576 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & towards          & 0.00685661 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & on               & 0.00661434 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & to               & 0.00594057 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & controls         & 0.00575159 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & with             & 0.00408253 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & supports         & 0.00379926 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & through          & 0.00360551 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & hates            & 0.00359196 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & pressures        & 0.00333961 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & wants            & 0.00327497 \\
+ The Russian government \ensuremath{<}mask\ensuremath{>} the United States & within           & 0.00297775 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & divide           & 0.146726   \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & break            & 0.142002   \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & hurt             & 0.120885   \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & kill             & 0.104891   \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & destroy          & 0.098437   \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & change           & 0.0633518  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & harm             & 0.0167769  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & control          & 0.0150898  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & corrupt          & 0.0141269  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & blind            & 0.0121418  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & ruin             & 0.0114008  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & bankrupt         & 0.00730991 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & move             & 0.00728836 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & abuse            & 0.00697736 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & damage           & 0.00652986 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & exploit          & 0.00585049 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & manipulate       & 0.0052566  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & use              & 0.00514115 \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & poison           & 0.0050207  \\
+ Capitalism can \ensuremath{<}mask\ensuremath{>} people                    & split            & 0.00480193 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & divide           & 0.215659   \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & hurt             & 0.158091   \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & change           & 0.0814487  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & kill             & 0.0724059  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & break            & 0.0672803  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & destroy          & 0.0391739  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & harm             & 0.0190345  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & blind            & 0.0140263  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & control          & 0.0137659  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & move             & 0.0135721  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & mobilize         & 0.0123932  \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & shock            & 0.00976896 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & mislead          & 0.00891113 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & split            & 0.00889735 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & help             & 0.00861657 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & deceive          & 0.00811776 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & unite            & 0.00764243 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & corrupt          & 0.00637405 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & confuse          & 0.00626095 \\
+ Communism can \ensuremath{<}mask\ensuremath{>} people                     & manipulate       & 0.00596863 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & change           & 0.201624   \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & divide           & 0.150609   \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & hurt             & 0.0928714  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & kill             & 0.0737697  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & break            & 0.0654966  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & destroy          & 0.0278925  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & blind            & 0.0184416  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & harm             & 0.0174358  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & control          & 0.0117118  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & move             & 0.0116108  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & shape            & 0.00901126 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & help             & 0.00900946 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & shock            & 0.00797578 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & affect           & 0.007778   \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & mobilize         & 0.0077132  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & unite            & 0.0076064  \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & confuse          & 0.00735094 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & split            & 0.00689169 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & transform        & 0.00683063 \\
+ Socialism can \ensuremath{<}mask\ensuremath{>} people                     & corrupt          & 0.00639123 \\
+\hline
+\end{tabular}

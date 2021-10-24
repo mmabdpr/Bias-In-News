@@ -1,0 +1,16 @@
+\begin{tabular}{lr}
+\hline
+ Value      &     TF-IDF \\
+\hline
+ ibd        & 0.0328893  \\
+ southkorea & 0.0172169  \\
+ twill      & 0.0113314  \\
+ aei        & 0.00718778 \\
+ utpol      & 0.00587676 \\
+ pri        & 0.00572799 \\
+ aapl       & 0.00515648 \\
+ izumi      & 0.00500893 \\
+ volleyball & 0.00446343 \\
+ seminoles  & 0.00391425 \\
+\hline
+\end{tabular}

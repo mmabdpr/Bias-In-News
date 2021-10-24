@@ -1,0 +1,16 @@
+\begin{tabular}{lr}
+\hline
+ Value       &     TF-IDF \\
+\hline
+ cbn         & 0.0401659  \\
+ biggovsucks & 0.0271925  \\
+ oann        & 0.0249457  \\
+ lifesite    & 0.0238832  \\
+ tcot        & 0.0234937  \\
+ mises       & 0.0102822  \\
+ prolife     & 0.00768775 \\
+ blazetv     & 0.00744752 \\
+ tpusa       & 0.00621439 \\
+ leftists    & 0.00473868 \\
+\hline
+\end{tabular}

@@ -1,0 +1,11 @@
+\begin{tabular}{rrr}
+\hline
+   Bias &   Token Count &   Word Count \\
+\hline
+     -2 &       2811034 &      2189992 \\
+     -1 &       5839328 &      4648636 \\
+      0 &       3318958 &      2628586 \\
+      1 &       2613344 &      2059955 \\
+      2 &       2435870 &      1906935 \\
+\hline
+\end{tabular}

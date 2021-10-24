@@ -1,0 +1,16 @@
+pandas>=1.2.4
+seaborn>=0.11.1
+matplotlib>=3.3.4
+numpy>=1.20.1
+tabulate>=0.8.9
+tqdm>=4.49.0
+python-dotenv>=0.17.1
+nltk>=3.6.1
+tweepy>=3.10.0
+setuptools>=52.0.0
+pebble>=4.6.1
+transformers>=4.6.1
+torch
+gensim>=4.0.1
+spacy>=3.0.6
+datasets>=1.8.0

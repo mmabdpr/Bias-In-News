@@ -1,0 +1,16 @@
+\begin{tabular}{rlllll}
+\hline
+    & -2                 & -1                & 0                     & 1                     & 2                 \\
+\hline
+  0 & confirmclarke (92) & s.f (118)         & yuki (69)             & ibd (421)             & lifesite (283)    \\
+  1 & acoli (39)         & evanstons (73)    & cq (64)               & aei (92)              & rofl (28)         \\
+  2 & sundiata (23)      & asg (49)          & nanoscale (19)        & aapl (66)             & wapos (24)        \\
+  3 & cointelpro (21)    & xcel (40)         & entomology (16)       & schoolchoiceweek (25) & pork-filled (20)  \\
+  4 & 'audit (16)        & avs (37)          & n501y (16)            & commoncore (16)       & anti-family (20)  \\
+  5 & unionism (16)      & heat-related (21) & gamma-ray (15)        & fomc (15)             & power-grab (20)   \\
+  6 & vibrators (14)     & bountygate (20)   & qubits (15)           & fusionism (11)        & hard-left (18)    \\
+  7 & proust (14)        & dunedin (19)      & synapses (15)         & industrials (9)       & maxinewaters (17) \\
+  8 & j20 (14)           & wiseman (19)      & worldwildlifeday (13) & discouragement (7)    & snerdley (15)     \\
+  9 & neofascist (12)    & hard-wired (17)   & transcom (12)         & gelsinger (7)         & hidin (15)        \\
+\hline
+\end{tabular}
