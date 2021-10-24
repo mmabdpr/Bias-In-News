@@ -12,5 +12,5 @@ The goal of this project is to construct a dataset consisting of posts written b
 - Reports of every phase is placed in `docs` directory.
 - Run `src.data.make_dataset` module to download and build the dataset.
 - Run `src.data.make_analysis_reports` module to extract figures and tables needed to compile latex reports.
-- Compile `docs/phase_1_report/report.tex` to make `report.pdf` of phase 1. ([download](https://github.com/mohammadmahdiabdollahpour/Bias-In-News/raw/master/docs/phase_1_report/report.pdf))
-- Compile `docs/phase_2_report/report.tex` to make `report.pdf` of phase 2. ([download](https://github.com/mohammadmahdiabdollahpour/Bias-In-News/raw/master/docs/phase_2_report/report.pdf))
+- Compile `docs/phase_1_report/report.tex` to make `report.pdf` of phase 1. ([download](https://github.com/mohammadmahdiabdollahpour/Bias-In-News/raw/main/docs/phase_1_report/report.pdf))
+- Compile `docs/phase_2_report/report.tex` to make `report.pdf` of phase 2. ([download](https://github.com/mohammadmahdiabdollahpour/Bias-In-News/raw/main/docs/phase_2_report/report.pdf))
